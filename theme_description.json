@@ -1,0 +1,10 @@
+{
+  "ThemeId": "AON.Theme",
+  "Name": "AON",
+  "Author": "Coppertop",
+  "Description": "This is the official AON Theme ",
+  "Version": "0.0.1",
+  "DisableUnspecifiedLocalization": false,
+  "Links": [],
+  "ForceLiveriesLoading": false
+}
