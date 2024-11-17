@@ -2,7 +2,7 @@
   "ThemeId": "aon.temp_theme",
   "Name": "AON Temp Theme",
   "Author": "AON",
-  "Description": "Temporary Themer for AON ",
+  "Description": "Temporary Theme for AON",
   "Version": "1.0.0",
   "DefaultLocalizationId": "en-GB",
   "ForceLiveriesLoading": true,

@@ -5,7 +5,7 @@
         "Items": [
             {
                 "Name": "bg",
-                "BlockType": "image", 
+                "BlockType": "image",
                 "Source": "bg.png"
             }
         ]

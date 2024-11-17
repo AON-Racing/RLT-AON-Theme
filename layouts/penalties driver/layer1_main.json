@@ -3,22 +3,18 @@
         "Name": "mainStack",
         "BlockType": "stack",
         "Margin": "24, 24, 24, 24",
-        "Background": "#ffffff",
         "Orientation": "Vertical",
-        "Items": [            
+        "Background": "#74101010",
+        "Items": [
             {
                 "BlockType": "component",
-                "Component": "/Penalties/HeaderBlockPenalties"
-            },    
-            {
-                "BlockType": "component",
-                "Component": "/Penalties/fia_penalty_item_driver",
+                "Component": "PenaltyItemComponent",
                 "ComponentOptions": {
                     "Vars": {
-                        "Penalty": "{Penalty}"
+                        "Penalty": "Penalty"
                     }
-                }               
-            }            
+                }
+            }
         ]
     }
 }
