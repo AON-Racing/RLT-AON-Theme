@@ -3,7 +3,7 @@
   "Name": "AON Temp Theme",
   "Author": "AON",
   "Description": "Temporary Theme for AON ",
-  "Version": "1.0.0",
+  "Version": "0.2.0",
   "DefaultLocalizationId": "en-GB",
   "ForceLiveriesLoading": true,
   "RequiredLogotypeVariants": {
